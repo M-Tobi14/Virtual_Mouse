@@ -1,0 +1,12 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+#ignore files at root
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+#ignore Python Cache
+__pycache__/
+*.pyc
